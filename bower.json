@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^3",
+    "bsp-utils": "^2",
+    "jquery": "^1"
+  },
+  "name": "bsp-autosubmit-gh-pages"
+}
