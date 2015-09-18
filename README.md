@@ -1,3 +1,7 @@
+# NOTICE
+
+Version 2.0.0 of autosubmit is now ES6 syntax for the SystemJS build system. If you are working with RequireJS or native ES5, please use 1.0.0
+
 # Installation
 
 Using [Bower](http://bower.io/):
