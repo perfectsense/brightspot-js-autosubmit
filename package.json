@@ -1,0 +1,21 @@
+{
+  "name": "brightspot-js-autosubmit",
+  "version": "2.0.0",
+  "description": "Version 2.0.0 of autosubmit is now ES6 syntax for the SystemJS build system. If you are working with RequireJS or native ES5, please use 1.0.0",
+  "main": "bsp-autosubmit.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfectsense/brightspot-js-autosubmit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perfectsense/brightspot-js-autosubmit/issues"
+  },
+  "homepage": "https://github.com/perfectsense/brightspot-js-autosubmit#readme"
+}
